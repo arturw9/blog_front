@@ -1,0 +1,256 @@
+#ColumLeft{
+    width: 100%;
+    height: 100px;
+    background-color: orange;
+}
+
+.fixo{
+    position: fixed;
+}
+
+#btn{
+    margin-left: 50px;
+}
+
+#title1{
+    margin-top: 30px;
+    text-align: center; 
+    color: white;
+}
+
+#DivLateral{
+    margin-left: 21%;
+    border-width:2px;
+    width:80%;
+    height: 100px;
+    background-color: azure;
+    float: left;
+}
+
+#divCentral{
+    display: inline-block;
+    padding-left: 320px;
+    width: 75%;
+    float: left;
+}
+
+#comoCitar{
+    padding-left: 80%;
+    color: orange;
+}
+
+#central22{
+    padding-top: 10px;
+    display: inline-block;
+    padding-left: 20px;
+    float: left;
+}
+#textoDetalhes{
+    padding-left: 16px;
+}
+
+.infoDetalhes{
+    color: grey;
+}
+
+#DivDireita{
+    border-width:2px;
+    width:80%;
+    height: 100px;
+    background-color: black;
+    float: left;
+}
+
+#DivLateral1{
+    margin-left: 42%;
+    border-width:2px;
+    width:70%;
+    height: 100px;
+    background-color: pink;
+}
+
+#infoP{
+    margin-left: 35px;
+}
+
+#welcome{
+    margin-left: 54%;
+}
+
+#perfil{
+    margin-left: 60px;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+#divMeio{
+    padding-top: 80px;
+    padding-left: 100px;
+    width: 75%;
+}
+
+#divDireita{
+    margin-left: 72%;
+    display: inline-block;
+    color: white;
+   
+}
+#btnDownload{
+    margin-left: 110px;
+}
+#ComoCitar{
+    color: #161712;
+    width: 200px;
+    height: 200px;
+    margin-left: 80px;
+    padding-left: 80%;
+    background-color: #161712;
+}
+#textoMeio{
+    margin-left: 24%;
+    color: orange;
+    font-weight: bold;
+}
+
+#resumo{
+    padding-top: 40px;
+    padding-left: 320px;
+    width: 75%;
+}
+
+#textoResumo{
+    padding-left: 16px;
+}
+
+.card-header{
+    background-color: azure;
+    width: 100%;
+}
+
+#DivRodape{
+    margin-left: 23%;
+    position: absolute;
+    top: auto;
+    height: 35px;
+    line-height: 35px;
+    width: 100%;
+}
+
+#DivRodape1{
+    margin-top: 20px;
+    margin-left: 43%;
+    position: absolute;
+    top: auto;
+    height: 35px;
+    line-height: 35px;
+    width: 100%;
+}
+
+#DivRodape11{
+    font-weight: bold;
+}
+
+#galoa{
+   width: 15%;
+}
+
+*{ margin:0; padding:0;}
+
+body{ font:100% normal Arial, Helvetica, sans-serif; background:#161712;}
+
+form,input,select,textarea{margin:0; padding:0; color:#ffffff;}
+
+div.box {
+    color: black;
+    width:500px;
+    top:50px;
+    margin-right: 50px;
+}
+
+div.box h1 {
+    font-size:18px;
+    text-transform:uppercase;
+    padding:5px 0 5px 5px;
+}
+
+div.box label {
+    width:100%;
+    display: block;
+    padding:10px 0 10px 0;
+}
+
+div.box label span {
+    display: block;
+    color: orange;
+    font-size:12px;
+    float:left;
+    width:100px;
+    text-align:right;
+    padding:5px 20px 0 0;
+}
+
+div.box .input_text {
+    padding:10px 10px;
+    width: 990px;
+    border-bottom: 1px double #171717;
+    border-top: 1px double #171717;
+    border-left:1px double #333333;
+    border-right:1px double #333333;
+}
+
+div.box .message{
+    width: 990px;
+    border-bottom: 1px double #171717;
+    border-top: 1px double #171717;
+    border-left:1px double #333333;
+    border-right:1px double #333333;
+   
+    height:150px;
+}
+
+div.box .button{
+    margin:0 0 10px 0;
+    padding:4px 7px;
+    background:orange;
+    border:0px;
+    position: relative;
+    top:10px;
+    left:382px;
+    width:100px;
+    border-bottom: 1px double orange;
+    border-top: 1px double orange;
+    border-left:1px double orange;
+    border-right:1px double orange;
+}
+
+#pergunta{
+    color: #161712;
+    margin-left: 22%;
+}
+
+.assuntoConteudo{
+    color: orange;
+    font-weight: bold;
+}
+
+#perguntas{
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 40px;
+    width: 75%;
+}
+
+#iconeMenu{
+    color: orange;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+#iconeLike{
+    color: orange;
+}
+
+.geralPerguntas{
+    margin-left: 20px;
+}
